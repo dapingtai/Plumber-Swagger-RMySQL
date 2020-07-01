@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/docker/cloud/build/zero102x/plumber-rmysql)
+![GitHub](https://img.shields.io/docker/image-size/zero102x/plumber-rmysql)
+![GitHub](https://img.shields.io/docker/pulls/zero102x/plumber-rmysql)
 # Plumber+Swagger+RMySQL
 ### Deploy the R API enviroment with Plumber, Swagger, and RMySQL
 
